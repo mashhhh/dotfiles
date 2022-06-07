@@ -3,6 +3,7 @@ set encoding=utf-8
 scriptencoding utif-8
 
 " インデント関係
+set expandtab
 set autoindent
 set tabstop=4
 set shiftwidth=4
