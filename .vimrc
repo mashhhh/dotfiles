@@ -27,7 +27,7 @@ Plug 'itchyny/lightline.vim'				" ステータスライン
 Plug 'haya14busa/incsearch.vim'				" 検索中ハイライト
 Plug 'mattn/emmet-vim'						" emmet記法対応
 Plug 'kamykn/spelunker.vim'					" スペルチェッカー
-Plug 'vuttie/comfortable-motion.vim'		" スムーズな移動
+Plug 'yuttie/comfortable-motion.vim'		" スムーズな移動
 call plug#end()
 
 " カラースキーマ
